@@ -5,3 +5,4 @@
 [2025-11-13T15:40:48] docs: add Redis data structures and caching patterns
 [2025-11-13T07:12:48] docs: add JVM class loading and bytecode
 [2025-11-14T17:57:55] docs: add Redis data structures and caching patterns
+[2025-11-14T10:16:13] docs: add Spring IoC and AOP deep dive
