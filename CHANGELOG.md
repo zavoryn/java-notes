@@ -4,3 +4,4 @@
 [2025-11-13T18:32:56] docs: add network protocols TCP HTTP WebSocket
 [2025-11-13T15:40:48] docs: add Redis data structures and caching patterns
 [2025-11-13T07:12:48] docs: add JVM class loading and bytecode
+[2025-11-14T17:57:55] docs: add Redis data structures and caching patterns
