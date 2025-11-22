@@ -7,3 +7,4 @@
 [2025-11-14T17:57:55] docs: add Redis data structures and caching patterns
 [2025-11-14T10:16:13] docs: add Spring IoC and AOP deep dive
 [2025-11-14T14:23:46] docs: add network protocols TCP HTTP WebSocket
+[2025-11-22T21:10:41] docs: add thread pool internals and tuning
