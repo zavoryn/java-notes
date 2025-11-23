@@ -9,3 +9,4 @@
 [2025-11-14T14:23:46] docs: add network protocols TCP HTTP WebSocket
 [2025-11-22T21:10:41] docs: add thread pool internals and tuning
 [2025-11-23T09:43:54] docs: add message queue comparison Kafka vs RocketMQ
+[2025-11-23T13:19:23] docs: add MySQL indexing and query optimization
