@@ -12,3 +12,4 @@
 [2025-11-23T13:19:23] docs: add MySQL indexing and query optimization
 [2025-11-24T11:30:44] docs: add Spring Boot auto configuration principles
 [2025-11-24T09:35:33] docs: add Spring Boot auto configuration principles
+[2025-11-24T13:22:31] docs: add MySQL indexing and query optimization
