@@ -15,3 +15,4 @@
 [2025-11-24T13:22:31] docs: add MySQL indexing and query optimization
 [2025-11-24T08:37:29] docs: add microservices architecture and CAP theorem
 [2025-11-25T09:49:08] docs: add message queue comparison Kafka vs RocketMQ
+[2025-11-25T13:19:54] docs: add MySQL indexing and query optimization
