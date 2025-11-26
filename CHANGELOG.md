@@ -17,3 +17,4 @@
 [2025-11-25T09:49:08] docs: add message queue comparison Kafka vs RocketMQ
 [2025-11-25T13:19:54] docs: add MySQL indexing and query optimization
 [2025-11-25T08:12:20] docs: add design patterns singleton factory strategy
+[2025-11-26T11:55:09] docs: add microservices architecture and CAP theorem
