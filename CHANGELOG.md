@@ -21,3 +21,4 @@
 [2025-11-26T21:28:30] docs: add MyBatis source code and plugin mechanism
 [2025-11-26T08:34:28] docs: add message queue comparison Kafka vs RocketMQ
 [2025-11-26T16:12:24] docs: add thread pool internals and tuning
+[2025-11-26T16:22:27] docs: add Spring Boot auto configuration principles
