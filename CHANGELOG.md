@@ -23,3 +23,4 @@
 [2025-11-26T16:12:24] docs: add thread pool internals and tuning
 [2025-11-26T16:22:27] docs: add Spring Boot auto configuration principles
 [2025-11-26T20:12:52] docs: add MySQL indexing and query optimization
+[2025-11-26T14:46:31] docs: add MyBatis source code and plugin mechanism
