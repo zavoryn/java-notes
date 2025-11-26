@@ -19,3 +19,4 @@
 [2025-11-25T08:12:20] docs: add design patterns singleton factory strategy
 [2025-11-26T11:55:09] docs: add microservices architecture and CAP theorem
 [2025-11-26T21:28:30] docs: add MyBatis source code and plugin mechanism
+[2025-11-26T08:34:28] docs: add message queue comparison Kafka vs RocketMQ
