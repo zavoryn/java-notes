@@ -29,3 +29,4 @@
 [2025-11-27T13:17:36] docs: add MySQL indexing and query optimization
 [2025-11-27T14:32:19] docs: add MyBatis source code and plugin mechanism
 [2025-11-27T15:46:48] docs: add MySQL indexing and query optimization
+[2025-11-27T14:11:45] docs: add distributed transaction Seata and TCC
