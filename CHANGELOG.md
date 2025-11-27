@@ -27,3 +27,4 @@
 [2025-11-27T21:03:16] docs: add HashMap and ConcurrentHashMap source analysis
 [2025-11-27T13:36:13] docs: add thread pool internals and tuning
 [2025-11-27T13:17:36] docs: add MySQL indexing and query optimization
+[2025-11-27T14:32:19] docs: add MyBatis source code and plugin mechanism
