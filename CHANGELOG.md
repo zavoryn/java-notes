@@ -24,3 +24,4 @@
 [2025-11-26T16:22:27] docs: add Spring Boot auto configuration principles
 [2025-11-26T20:12:52] docs: add MySQL indexing and query optimization
 [2025-11-26T14:46:31] docs: add MyBatis source code and plugin mechanism
+[2025-11-27T21:03:16] docs: add HashMap and ConcurrentHashMap source analysis
