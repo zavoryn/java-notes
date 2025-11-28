@@ -33,3 +33,4 @@
 [2025-11-28T08:47:46] docs: add message queue comparison Kafka vs RocketMQ
 [2025-11-28T09:43:27] docs: add network protocols TCP HTTP WebSocket
 [2025-11-28T18:29:25] docs: add MySQL indexing and query optimization
+[2025-11-28T19:28:58] docs: add microservices architecture and CAP theorem
