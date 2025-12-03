@@ -43,3 +43,4 @@
 [2025-12-02T14:23:49] docs: add Spring IoC and AOP deep dive
 [2025-12-03T22:26:51] docs: add HashMap and ConcurrentHashMap source analysis
 [2025-12-03T16:20:18] docs: add network protocols TCP HTTP WebSocket
+[2025-12-03T21:58:48] docs: add design patterns singleton factory strategy
