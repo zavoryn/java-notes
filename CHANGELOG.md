@@ -41,3 +41,4 @@
 [2025-12-02T22:41:02] docs: add JVM memory model and GC notes
 [2025-12-02T12:44:34] docs: add Spring Boot auto configuration principles
 [2025-12-02T14:23:49] docs: add Spring IoC and AOP deep dive
+[2025-12-03T22:26:51] docs: add HashMap and ConcurrentHashMap source analysis
