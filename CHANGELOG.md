@@ -51,3 +51,4 @@
 [2025-12-04T18:37:16] docs: add thread pool internals and tuning
 [2025-12-04T07:30:30] docs: add microservices architecture and CAP theorem
 [2025-12-04T13:16:27] docs: add Redis data structures and caching patterns
+[2025-12-05T07:56:16] docs: add distributed transaction Seata and TCC
