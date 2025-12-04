@@ -46,3 +46,4 @@
 [2025-12-03T21:58:48] docs: add design patterns singleton factory strategy
 [2025-12-04T20:02:34] docs: add thread pool internals and tuning
 [2025-12-04T08:52:13] docs: add Spring IoC and AOP deep dive
+[2025-12-04T22:51:31] docs: add MyBatis source code and plugin mechanism
