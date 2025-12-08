@@ -53,3 +53,4 @@
 [2025-12-04T13:16:27] docs: add Redis data structures and caching patterns
 [2025-12-05T07:56:16] docs: add distributed transaction Seata and TCC
 [2025-12-07T14:32:55] docs: add HashMap and ConcurrentHashMap source analysis
+[2025-12-08T17:27:59] docs: add MyBatis source code and plugin mechanism
