@@ -59,3 +59,4 @@
 [2025-12-09T09:10:47] docs: add network protocols TCP HTTP WebSocket
 [2025-12-09T08:35:16] docs: add JVM class loading and bytecode
 [2025-12-09T11:19:42] docs: add Spring Boot auto configuration principles
+[2025-12-10T07:27:09] docs: add microservices architecture and CAP theorem
