@@ -64,3 +64,4 @@
 [2025-12-11T16:59:29] docs: add MyBatis source code and plugin mechanism
 [2025-12-11T19:42:17] docs: add HashMap and ConcurrentHashMap source analysis
 [2025-12-11T20:29:56] docs: add Spring IoC and AOP deep dive
+[2025-12-11T11:23:25] docs: add MyBatis source code and plugin mechanism
