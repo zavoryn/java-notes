@@ -61,3 +61,4 @@
 [2025-12-09T11:19:42] docs: add Spring Boot auto configuration principles
 [2025-12-10T07:27:09] docs: add microservices architecture and CAP theorem
 [2025-12-11T17:17:58] docs: add concurrent programming locks and AQS
+[2025-12-11T16:59:29] docs: add MyBatis source code and plugin mechanism
