@@ -68,3 +68,4 @@
 [2025-12-11T17:15:07] docs: add concurrent programming locks and AQS
 [2025-12-11T12:26:29] docs: add concurrent programming locks and AQS
 [2025-12-20T09:51:09] docs: add design patterns singleton factory strategy
+[2025-12-22T22:37:56] docs: add thread pool internals and tuning
