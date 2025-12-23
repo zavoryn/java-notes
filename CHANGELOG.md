@@ -76,3 +76,4 @@
 [2025-12-22T22:43:14] docs: add distributed transaction Seata and TCC
 [2025-12-23T11:44:17] docs: add microservices architecture and CAP theorem
 [2025-12-23T18:45:59] docs: add concurrent programming locks and AQS
+[2025-12-23T14:27:12] docs: add Redis data structures and caching patterns
