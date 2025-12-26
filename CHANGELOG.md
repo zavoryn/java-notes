@@ -82,3 +82,4 @@
 [2025-12-23T20:06:10] docs: add JVM memory model and GC notes
 [2025-12-23T12:15:08] docs: add HashMap and ConcurrentHashMap source analysis
 [2025-12-23T17:17:11] docs: add design patterns singleton factory strategy
+[2025-12-26T10:17:05] docs: add distributed transaction Seata and TCC
