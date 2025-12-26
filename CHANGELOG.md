@@ -84,3 +84,4 @@
 [2025-12-23T17:17:11] docs: add design patterns singleton factory strategy
 [2025-12-26T10:17:05] docs: add distributed transaction Seata and TCC
 [2025-12-26T14:55:09] docs: add MySQL indexing and query optimization
+[2025-12-26T14:33:15] docs: add thread pool internals and tuning
