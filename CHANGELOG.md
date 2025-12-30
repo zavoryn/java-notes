@@ -89,3 +89,4 @@
 [2025-12-30T21:49:20] docs: add concurrent programming locks and AQS
 [2025-12-30T15:53:59] docs: add MyBatis source code and plugin mechanism
 [2025-12-30T08:21:27] docs: add MySQL indexing and query optimization
+[2025-12-30T18:09:25] docs: add thread pool internals and tuning
