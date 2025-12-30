@@ -87,3 +87,4 @@
 [2025-12-26T14:33:15] docs: add thread pool internals and tuning
 [2025-12-29T09:34:25] docs: add thread pool internals and tuning
 [2025-12-30T21:49:20] docs: add concurrent programming locks and AQS
+[2025-12-30T15:53:59] docs: add MyBatis source code and plugin mechanism
