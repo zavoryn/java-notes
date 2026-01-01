@@ -92,3 +92,4 @@
 [2025-12-30T18:09:25] docs: add thread pool internals and tuning
 [2025-12-30T22:59:15] docs: add design patterns singleton factory strategy
 [2026-01-02T07:51:47] docs: add MyBatis source code and plugin mechanism
+[2026-01-02T07:19:06] docs: add design patterns singleton factory strategy
