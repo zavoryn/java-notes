@@ -94,3 +94,4 @@
 [2026-01-02T07:51:47] docs: add MyBatis source code and plugin mechanism
 [2026-01-02T07:19:06] docs: add design patterns singleton factory strategy
 [2026-01-02T13:10:19] docs: add concurrent programming locks and AQS
+[2026-01-02T11:11:27] docs: add JVM memory model and GC notes
