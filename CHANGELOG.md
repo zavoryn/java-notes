@@ -97,3 +97,4 @@
 [2026-01-02T11:11:27] docs: add JVM memory model and GC notes
 [2026-01-02T19:12:55] docs: add thread pool internals and tuning
 [2026-01-04T19:55:22] docs: add JVM memory model and GC notes
+[2026-01-04T17:15:05] docs: add network protocols TCP HTTP WebSocket
