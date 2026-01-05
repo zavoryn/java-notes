@@ -98,3 +98,4 @@
 [2026-01-02T19:12:55] docs: add thread pool internals and tuning
 [2026-01-04T19:55:22] docs: add JVM memory model and GC notes
 [2026-01-04T17:15:05] docs: add network protocols TCP HTTP WebSocket
+[2026-01-05T14:09:52] docs: add thread pool internals and tuning
