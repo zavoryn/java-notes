@@ -105,3 +105,4 @@
 [2026-01-06T22:45:15] docs: add Spring IoC and AOP deep dive
 [2026-01-06T19:38:39] docs: add design patterns singleton factory strategy
 [2026-01-06T08:36:18] docs: add Spring Boot auto configuration principles
+[2026-01-06T10:35:17] docs: add JVM memory model and GC notes
