@@ -104,3 +104,4 @@
 [2026-01-06T08:47:47] docs: add JVM class loading and bytecode
 [2026-01-06T22:45:15] docs: add Spring IoC and AOP deep dive
 [2026-01-06T19:38:39] docs: add design patterns singleton factory strategy
+[2026-01-06T08:36:18] docs: add Spring Boot auto configuration principles
