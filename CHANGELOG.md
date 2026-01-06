@@ -100,3 +100,4 @@
 [2026-01-04T17:15:05] docs: add network protocols TCP HTTP WebSocket
 [2026-01-05T14:09:52] docs: add thread pool internals and tuning
 [2026-01-06T07:11:39] docs: add HashMap and ConcurrentHashMap source analysis
+[2026-01-06T19:05:59] docs: add network protocols TCP HTTP WebSocket
