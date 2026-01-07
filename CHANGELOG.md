@@ -106,3 +106,4 @@
 [2026-01-06T19:38:39] docs: add design patterns singleton factory strategy
 [2026-01-06T08:36:18] docs: add Spring Boot auto configuration principles
 [2026-01-06T10:35:17] docs: add JVM memory model and GC notes
+[2026-01-07T13:33:13] docs: add microservices architecture and CAP theorem
