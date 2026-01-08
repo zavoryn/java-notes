@@ -107,3 +107,4 @@
 [2026-01-06T08:36:18] docs: add Spring Boot auto configuration principles
 [2026-01-06T10:35:17] docs: add JVM memory model and GC notes
 [2026-01-07T13:33:13] docs: add microservices architecture and CAP theorem
+[2026-01-08T16:59:10] docs: add MyBatis source code and plugin mechanism
