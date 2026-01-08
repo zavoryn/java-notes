@@ -108,3 +108,4 @@
 [2026-01-06T10:35:17] docs: add JVM memory model and GC notes
 [2026-01-07T13:33:13] docs: add microservices architecture and CAP theorem
 [2026-01-08T16:59:10] docs: add MyBatis source code and plugin mechanism
+[2026-01-08T12:07:27] docs: add design patterns singleton factory strategy
