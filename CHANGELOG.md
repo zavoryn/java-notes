@@ -110,3 +110,4 @@
 [2026-01-08T16:59:10] docs: add MyBatis source code and plugin mechanism
 [2026-01-08T12:07:27] docs: add design patterns singleton factory strategy
 [2026-01-08T15:42:47] docs: add message queue comparison Kafka vs RocketMQ
+[2026-01-08T19:52:59] docs: add Spring Boot auto configuration principles
