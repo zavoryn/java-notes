@@ -115,3 +115,4 @@
 [2026-01-08T16:16:09] docs: add Redis data structures and caching patterns
 [2026-01-09T08:34:28] docs: add MyBatis source code and plugin mechanism
 [2026-01-09T21:00:46] docs: add JVM class loading and bytecode
+[2026-01-09T11:04:48] docs: add design patterns singleton factory strategy
