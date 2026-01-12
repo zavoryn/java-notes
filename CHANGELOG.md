@@ -118,3 +118,4 @@
 [2026-01-09T11:04:48] docs: add design patterns singleton factory strategy
 [2026-01-09T16:16:29] docs: add distributed transaction Seata and TCC
 [2026-01-12T10:44:48] docs: add distributed transaction Seata and TCC
+[2026-01-12T22:38:06] docs: add network protocols TCP HTTP WebSocket
