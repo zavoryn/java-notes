@@ -124,3 +124,4 @@
 [2026-01-13T08:56:52] docs: add design patterns singleton factory strategy
 [2026-01-13T22:26:46] docs: add MyBatis source code and plugin mechanism
 [2026-01-13T15:25:32] docs: add design patterns singleton factory strategy
+[2026-01-13T13:36:33] docs: add JVM memory model and GC notes
