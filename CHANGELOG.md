@@ -135,3 +135,4 @@
 [2026-01-15T08:00:07] docs: add distributed transaction Seata and TCC
 [2026-01-15T20:52:33] docs: add message queue comparison Kafka vs RocketMQ
 [2026-01-15T13:01:02] docs: add microservices architecture and CAP theorem
+[2026-01-15T20:02:28] docs: add MySQL indexing and query optimization
