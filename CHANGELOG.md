@@ -131,3 +131,4 @@
 [2026-01-14T22:37:25] docs: add distributed transaction Seata and TCC
 [2026-01-15T21:23:47] docs: add thread pool internals and tuning
 [2026-01-15T11:55:08] docs: add JVM class loading and bytecode
+[2026-01-15T20:25:52] docs: add design patterns singleton factory strategy
