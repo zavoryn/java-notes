@@ -129,3 +129,4 @@
 [2026-01-14T19:42:04] docs: add JVM memory model and GC notes
 [2026-01-14T08:12:52] docs: add Redis data structures and caching patterns
 [2026-01-14T22:37:25] docs: add distributed transaction Seata and TCC
+[2026-01-15T21:23:47] docs: add thread pool internals and tuning
