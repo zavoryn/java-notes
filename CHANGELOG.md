@@ -142,3 +142,4 @@
 [2026-01-16T11:49:12] docs: add message queue comparison Kafka vs RocketMQ
 [2026-01-16T08:25:02] docs: add network protocols TCP HTTP WebSocket
 [2026-01-16T10:56:39] docs: add JVM memory model and GC notes
+[2026-01-16T15:02:50] docs: add HashMap and ConcurrentHashMap source analysis
