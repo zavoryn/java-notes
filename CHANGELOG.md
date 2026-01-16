@@ -139,3 +139,4 @@
 [2026-01-15T07:01:24] docs: add microservices architecture and CAP theorem
 [2026-01-15T09:33:45] docs: add Spring IoC and AOP deep dive
 [2026-01-16T12:03:43] docs: add Spring Boot auto configuration principles
+[2026-01-16T11:49:12] docs: add message queue comparison Kafka vs RocketMQ
