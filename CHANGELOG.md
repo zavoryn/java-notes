@@ -146,3 +146,4 @@
 [2026-01-16T07:47:42] docs: add Redis data structures and caching patterns
 [2026-01-17T10:20:29] docs: add JVM memory model and GC notes
 [2026-01-17T11:25:55] docs: add network protocols TCP HTTP WebSocket
+[2026-01-17T12:32:53] docs: add Spring IoC and AOP deep dive
