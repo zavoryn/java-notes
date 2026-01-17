@@ -145,3 +145,4 @@
 [2026-01-16T15:02:50] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-01-16T07:47:42] docs: add Redis data structures and caching patterns
 [2026-01-17T10:20:29] docs: add JVM memory model and GC notes
+[2026-01-17T11:25:55] docs: add network protocols TCP HTTP WebSocket
