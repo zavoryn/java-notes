@@ -150,3 +150,4 @@
 [2026-01-24T20:54:05] docs: add network protocols TCP HTTP WebSocket
 [2026-01-24T20:31:30] docs: add distributed transaction Seata and TCC
 [2026-01-26T17:46:45] docs: add design patterns singleton factory strategy
+[2026-01-27T07:26:12] docs: add JVM class loading and bytecode
