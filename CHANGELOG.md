@@ -149,3 +149,4 @@
 [2026-01-17T12:32:53] docs: add Spring IoC and AOP deep dive
 [2026-01-24T20:54:05] docs: add network protocols TCP HTTP WebSocket
 [2026-01-24T20:31:30] docs: add distributed transaction Seata and TCC
+[2026-01-26T17:46:45] docs: add design patterns singleton factory strategy
