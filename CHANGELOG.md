@@ -152,3 +152,4 @@
 [2026-01-26T17:46:45] docs: add design patterns singleton factory strategy
 [2026-01-27T07:26:12] docs: add JVM class loading and bytecode
 [2026-01-27T10:00:42] docs: add distributed transaction Seata and TCC
+[2026-01-27T09:35:52] docs: add message queue comparison Kafka vs RocketMQ
