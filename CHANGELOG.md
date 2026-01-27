@@ -154,3 +154,4 @@
 [2026-01-27T10:00:42] docs: add distributed transaction Seata and TCC
 [2026-01-27T09:35:52] docs: add message queue comparison Kafka vs RocketMQ
 [2026-01-27T09:20:24] docs: add Spring Boot auto configuration principles
+[2026-01-27T15:54:14] docs: add distributed transaction Seata and TCC
