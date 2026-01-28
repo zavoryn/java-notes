@@ -163,3 +163,4 @@
 [2026-01-28T12:25:47] docs: add Spring Boot auto configuration principles
 [2026-01-28T22:25:50] docs: add Spring Boot auto configuration principles
 [2026-01-28T18:10:43] docs: add network protocols TCP HTTP WebSocket
+[2026-01-28T20:57:58] docs: add microservices architecture and CAP theorem
