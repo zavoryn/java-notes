@@ -157,3 +157,4 @@
 [2026-01-27T15:54:14] docs: add distributed transaction Seata and TCC
 [2026-01-27T19:32:17] docs: add thread pool internals and tuning
 [2026-01-27T10:20:14] docs: add thread pool internals and tuning
+[2026-01-28T14:53:11] docs: add MySQL indexing and query optimization
