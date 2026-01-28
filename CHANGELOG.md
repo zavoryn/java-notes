@@ -158,3 +158,4 @@
 [2026-01-27T19:32:17] docs: add thread pool internals and tuning
 [2026-01-27T10:20:14] docs: add thread pool internals and tuning
 [2026-01-28T14:53:11] docs: add MySQL indexing and query optimization
+[2026-01-28T22:09:39] docs: add network protocols TCP HTTP WebSocket
