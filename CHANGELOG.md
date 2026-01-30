@@ -166,3 +166,4 @@
 [2026-01-28T20:57:58] docs: add microservices architecture and CAP theorem
 [2026-01-28T13:24:54] docs: add Redis data structures and caching patterns
 [2026-01-30T08:48:34] docs: add Spring IoC and AOP deep dive
+[2026-01-30T15:08:05] docs: add network protocols TCP HTTP WebSocket
