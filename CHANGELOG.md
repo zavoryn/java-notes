@@ -169,3 +169,4 @@
 [2026-01-30T15:08:05] docs: add network protocols TCP HTTP WebSocket
 [2026-02-02T10:31:05] docs: add network protocols TCP HTTP WebSocket
 [2026-02-02T12:18:16] docs: add design patterns singleton factory strategy
+[2026-02-02T09:24:02] docs: add microservices architecture and CAP theorem
