@@ -171,3 +171,4 @@
 [2026-02-02T12:18:16] docs: add design patterns singleton factory strategy
 [2026-02-02T09:24:02] docs: add microservices architecture and CAP theorem
 [2026-02-03T08:52:21] docs: add thread pool internals and tuning
+[2026-02-03T12:24:02] docs: add message queue comparison Kafka vs RocketMQ
