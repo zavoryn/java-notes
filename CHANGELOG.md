@@ -174,3 +174,4 @@
 [2026-02-03T12:24:02] docs: add message queue comparison Kafka vs RocketMQ
 [2026-02-03T14:05:04] docs: add thread pool internals and tuning
 [2026-02-03T14:03:00] docs: add concurrent programming locks and AQS
+[2026-02-03T16:36:03] docs: add Redis data structures and caching patterns
