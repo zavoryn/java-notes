@@ -180,3 +180,4 @@
 [2026-02-05T08:58:00] docs: add JVM memory model and GC notes
 [2026-02-05T19:39:35] docs: add JVM class loading and bytecode
 [2026-02-05T17:05:22] docs: add network protocols TCP HTTP WebSocket
+[2026-02-05T13:52:26] docs: add message queue comparison Kafka vs RocketMQ
