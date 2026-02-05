@@ -181,3 +181,4 @@
 [2026-02-05T19:39:35] docs: add JVM class loading and bytecode
 [2026-02-05T17:05:22] docs: add network protocols TCP HTTP WebSocket
 [2026-02-05T13:52:26] docs: add message queue comparison Kafka vs RocketMQ
+[2026-02-05T16:05:04] docs: add Redis data structures and caching patterns
