@@ -183,3 +183,4 @@
 [2026-02-05T13:52:26] docs: add message queue comparison Kafka vs RocketMQ
 [2026-02-05T16:05:04] docs: add Redis data structures and caching patterns
 [2026-02-05T19:53:24] docs: add design patterns singleton factory strategy
+[2026-02-05T18:40:12] docs: add MyBatis source code and plugin mechanism
