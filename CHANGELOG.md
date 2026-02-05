@@ -178,3 +178,4 @@
 [2026-02-03T19:08:53] docs: add design patterns singleton factory strategy
 [2026-02-04T16:45:23] docs: add JVM class loading and bytecode
 [2026-02-05T08:58:00] docs: add JVM memory model and GC notes
+[2026-02-05T19:39:35] docs: add JVM class loading and bytecode
