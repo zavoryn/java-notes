@@ -194,3 +194,4 @@
 [2026-02-11T16:09:07] docs: add MyBatis source code and plugin mechanism
 [2026-02-11T07:59:49] docs: add thread pool internals and tuning
 [2026-02-11T12:43:16] docs: add MySQL indexing and query optimization
+[2026-02-11T14:08:41] docs: add distributed transaction Seata and TCC
