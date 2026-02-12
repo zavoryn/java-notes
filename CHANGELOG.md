@@ -197,3 +197,4 @@
 [2026-02-11T14:08:41] docs: add distributed transaction Seata and TCC
 [2026-02-11T20:34:27] docs: add message queue comparison Kafka vs RocketMQ
 [2026-02-12T18:23:10] docs: add distributed transaction Seata and TCC
+[2026-02-12T10:29:58] docs: add JVM class loading and bytecode
