@@ -199,3 +199,4 @@
 [2026-02-12T18:23:10] docs: add distributed transaction Seata and TCC
 [2026-02-12T10:29:58] docs: add JVM class loading and bytecode
 [2026-02-12T14:31:48] docs: add Spring IoC and AOP deep dive
+[2026-02-12T13:30:46] docs: add Spring Boot auto configuration principles
