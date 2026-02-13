@@ -202,3 +202,4 @@
 [2026-02-12T13:30:46] docs: add Spring Boot auto configuration principles
 [2026-02-12T10:16:13] docs: add concurrent programming locks and AQS
 [2026-02-12T12:47:41] docs: add HashMap and ConcurrentHashMap source analysis
+[2026-02-13T12:01:43] docs: add design patterns singleton factory strategy
