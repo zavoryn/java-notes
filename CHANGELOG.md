@@ -205,3 +205,4 @@
 [2026-02-13T12:01:43] docs: add design patterns singleton factory strategy
 [2026-02-13T16:29:31] docs: add message queue comparison Kafka vs RocketMQ
 [2026-03-02T19:58:49] docs: add network protocols TCP HTTP WebSocket
+[2026-03-03T16:57:24] docs: add message queue comparison Kafka vs RocketMQ
