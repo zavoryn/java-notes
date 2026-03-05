@@ -212,3 +212,4 @@
 [2026-03-04T08:29:48] docs: add concurrent programming locks and AQS
 [2026-03-05T12:59:27] docs: add distributed transaction Seata and TCC
 [2026-03-05T16:02:04] docs: add Spring Boot auto configuration principles
+[2026-03-05T12:01:35] docs: add Spring IoC and AOP deep dive
