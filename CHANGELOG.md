@@ -217,3 +217,4 @@
 [2026-03-05T22:29:41] docs: add Spring IoC and AOP deep dive
 [2026-03-05T11:09:34] docs: add thread pool internals and tuning
 [2026-03-05T12:25:06] docs: add Redis data structures and caching patterns
+[2026-03-08T16:12:24] docs: add HashMap and ConcurrentHashMap source analysis
