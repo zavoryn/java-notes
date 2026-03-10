@@ -221,3 +221,4 @@
 [2026-03-10T12:47:26] docs: add JVM class loading and bytecode
 [2026-03-10T18:08:22] docs: add JVM class loading and bytecode
 [2026-03-10T20:30:12] docs: add network protocols TCP HTTP WebSocket
+[2026-03-10T10:17:08] docs: add JVM memory model and GC notes
