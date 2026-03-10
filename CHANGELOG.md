@@ -219,3 +219,4 @@
 [2026-03-05T12:25:06] docs: add Redis data structures and caching patterns
 [2026-03-08T16:12:24] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-03-10T12:47:26] docs: add JVM class loading and bytecode
+[2026-03-10T18:08:22] docs: add JVM class loading and bytecode
