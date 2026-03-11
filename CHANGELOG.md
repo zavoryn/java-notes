@@ -224,3 +224,4 @@
 [2026-03-10T10:17:08] docs: add JVM memory model and GC notes
 [2026-03-11T07:11:02] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-03-11T07:36:45] docs: add HashMap and ConcurrentHashMap source analysis
+[2026-03-11T20:32:24] docs: add JVM memory model and GC notes
