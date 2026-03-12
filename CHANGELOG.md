@@ -226,3 +226,4 @@
 [2026-03-11T07:36:45] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-03-11T20:32:24] docs: add JVM memory model and GC notes
 [2026-03-11T17:20:46] docs: add microservices architecture and CAP theorem
+[2026-03-12T19:24:29] docs: add concurrent programming locks and AQS
