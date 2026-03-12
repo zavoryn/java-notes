@@ -228,3 +228,4 @@
 [2026-03-11T17:20:46] docs: add microservices architecture and CAP theorem
 [2026-03-12T19:24:29] docs: add concurrent programming locks and AQS
 [2026-03-12T16:29:28] docs: add MyBatis source code and plugin mechanism
+[2026-03-12T12:05:30] docs: add HashMap and ConcurrentHashMap source analysis
