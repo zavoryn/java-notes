@@ -234,3 +234,4 @@
 [2026-03-12T16:42:20] docs: add Spring IoC and AOP deep dive
 [2026-03-12T16:29:45] docs: add Spring IoC and AOP deep dive
 [2026-03-12T22:32:00] docs: add Redis data structures and caching patterns
+[2026-03-13T15:46:00] docs: add JVM memory model and GC notes
