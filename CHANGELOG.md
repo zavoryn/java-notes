@@ -237,3 +237,4 @@
 [2026-03-13T15:46:00] docs: add JVM memory model and GC notes
 [2026-03-15T17:20:40] docs: add distributed transaction Seata and TCC
 [2026-03-18T12:54:21] docs: add network protocols TCP HTTP WebSocket
+[2026-03-22T15:51:43] docs: add Redis data structures and caching patterns
