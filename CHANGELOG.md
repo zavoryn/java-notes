@@ -238,3 +238,4 @@
 [2026-03-15T17:20:40] docs: add distributed transaction Seata and TCC
 [2026-03-18T12:54:21] docs: add network protocols TCP HTTP WebSocket
 [2026-03-22T15:51:43] docs: add Redis data structures and caching patterns
+[2026-03-24T18:18:13] docs: add thread pool internals and tuning
