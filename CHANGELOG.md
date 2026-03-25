@@ -243,3 +243,4 @@
 [2026-03-24T14:06:47] docs: add concurrent programming locks and AQS
 [2026-03-24T19:11:48] docs: add thread pool internals and tuning
 [2026-03-24T11:12:42] docs: add Spring Boot auto configuration principles
+[2026-03-25T09:52:18] docs: add JVM memory model and GC notes
