@@ -249,3 +249,4 @@
 [2026-03-26T14:21:04] docs: add design patterns singleton factory strategy
 [2026-03-26T16:06:34] docs: add Redis data structures and caching patterns
 [2026-03-26T20:07:35] docs: add microservices architecture and CAP theorem
+[2026-03-26T20:57:23] docs: add JVM class loading and bytecode
