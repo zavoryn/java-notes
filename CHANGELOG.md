@@ -247,3 +247,4 @@
 [2026-03-25T16:48:31] docs: add JVM class loading and bytecode
 [2026-03-26T15:29:26] docs: add design patterns singleton factory strategy
 [2026-03-26T14:21:04] docs: add design patterns singleton factory strategy
+[2026-03-26T16:06:34] docs: add Redis data structures and caching patterns
