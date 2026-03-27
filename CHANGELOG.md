@@ -251,3 +251,4 @@
 [2026-03-26T20:07:35] docs: add microservices architecture and CAP theorem
 [2026-03-26T20:57:23] docs: add JVM class loading and bytecode
 [2026-03-27T20:18:03] docs: add design patterns singleton factory strategy
+[2026-03-27T13:50:15] docs: add distributed transaction Seata and TCC
