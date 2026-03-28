@@ -253,3 +253,4 @@
 [2026-03-27T20:18:03] docs: add design patterns singleton factory strategy
 [2026-03-27T13:50:15] docs: add distributed transaction Seata and TCC
 [2026-03-27T15:42:08] docs: add MySQL indexing and query optimization
+[2026-03-28T18:13:04] docs: add Spring Boot auto configuration principles
