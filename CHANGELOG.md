@@ -259,3 +259,4 @@
 [2026-03-31T21:17:07] docs: add distributed transaction Seata and TCC
 [2026-03-31T09:26:35] docs: add distributed transaction Seata and TCC
 [2026-03-31T22:41:38] docs: add MySQL indexing and query optimization
+[2026-03-31T19:17:38] docs: add Redis data structures and caching patterns
