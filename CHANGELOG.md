@@ -258,3 +258,4 @@
 [2026-03-31T22:33:11] docs: add message queue comparison Kafka vs RocketMQ
 [2026-03-31T21:17:07] docs: add distributed transaction Seata and TCC
 [2026-03-31T09:26:35] docs: add distributed transaction Seata and TCC
+[2026-03-31T22:41:38] docs: add MySQL indexing and query optimization
