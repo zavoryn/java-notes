@@ -269,3 +269,4 @@
 [2026-04-02T13:33:08] docs: add MyBatis source code and plugin mechanism
 [2026-04-02T09:11:51] docs: add message queue comparison Kafka vs RocketMQ
 [2026-04-02T12:27:37] docs: add MyBatis source code and plugin mechanism
+[2026-04-02T21:33:22] docs: add network protocols TCP HTTP WebSocket
