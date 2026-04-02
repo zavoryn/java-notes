@@ -267,3 +267,4 @@
 [2026-04-01T22:19:17] docs: add design patterns singleton factory strategy
 [2026-04-01T13:21:08] docs: add thread pool internals and tuning
 [2026-04-02T13:33:08] docs: add MyBatis source code and plugin mechanism
+[2026-04-02T09:11:51] docs: add message queue comparison Kafka vs RocketMQ
