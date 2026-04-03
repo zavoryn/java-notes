@@ -274,3 +274,4 @@
 [2026-04-02T20:53:53] docs: add concurrent programming locks and AQS
 [2026-04-02T09:49:33] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-04-02T22:40:27] docs: add thread pool internals and tuning
+[2026-04-03T16:39:39] docs: add network protocols TCP HTTP WebSocket
