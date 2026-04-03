@@ -275,3 +275,4 @@
 [2026-04-02T09:49:33] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-04-02T22:40:27] docs: add thread pool internals and tuning
 [2026-04-03T16:39:39] docs: add network protocols TCP HTTP WebSocket
+[2026-04-03T21:22:53] docs: add design patterns singleton factory strategy
