@@ -278,3 +278,4 @@
 [2026-04-03T21:22:53] docs: add design patterns singleton factory strategy
 [2026-04-04T13:51:39] docs: add MySQL indexing and query optimization
 [2026-04-05T18:19:51] docs: add concurrent programming locks and AQS
+[2026-04-05T15:07:42] docs: add thread pool internals and tuning
