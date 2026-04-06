@@ -279,3 +279,4 @@
 [2026-04-04T13:51:39] docs: add MySQL indexing and query optimization
 [2026-04-05T18:19:51] docs: add concurrent programming locks and AQS
 [2026-04-05T15:07:42] docs: add thread pool internals and tuning
+[2026-04-06T21:00:37] docs: add Spring IoC and AOP deep dive
