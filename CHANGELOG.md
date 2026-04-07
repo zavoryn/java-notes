@@ -280,3 +280,4 @@
 [2026-04-05T18:19:51] docs: add concurrent programming locks and AQS
 [2026-04-05T15:07:42] docs: add thread pool internals and tuning
 [2026-04-06T21:00:37] docs: add Spring IoC and AOP deep dive
+[2026-04-07T10:45:07] docs: add network protocols TCP HTTP WebSocket
