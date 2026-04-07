@@ -282,3 +282,4 @@
 [2026-04-06T21:00:37] docs: add Spring IoC and AOP deep dive
 [2026-04-07T10:45:07] docs: add network protocols TCP HTTP WebSocket
 [2026-04-07T08:39:27] docs: add Spring Boot auto configuration principles
+[2026-04-07T14:04:30] docs: add thread pool internals and tuning
