@@ -287,3 +287,4 @@
 [2026-04-07T17:38:19] docs: add JVM memory model and GC notes
 [2026-04-07T10:50:50] docs: add JVM memory model and GC notes
 [2026-04-08T14:33:23] docs: add network protocols TCP HTTP WebSocket
+[2026-04-08T20:44:11] docs: add Spring Boot auto configuration principles
