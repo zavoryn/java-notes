@@ -293,3 +293,4 @@
 [2026-04-09T08:23:17] docs: add microservices architecture and CAP theorem
 [2026-04-09T18:04:58] docs: add Redis data structures and caching patterns
 [2026-04-09T11:49:06] docs: add Spring IoC and AOP deep dive
+[2026-04-09T16:06:07] docs: add concurrent programming locks and AQS
