@@ -291,3 +291,4 @@
 [2026-04-09T21:46:04] docs: add MySQL indexing and query optimization
 [2026-04-09T17:13:40] docs: add design patterns singleton factory strategy
 [2026-04-09T08:23:17] docs: add microservices architecture and CAP theorem
+[2026-04-09T18:04:58] docs: add Redis data structures and caching patterns
