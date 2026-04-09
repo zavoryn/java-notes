@@ -289,3 +289,4 @@
 [2026-04-08T14:33:23] docs: add network protocols TCP HTTP WebSocket
 [2026-04-08T20:44:11] docs: add Spring Boot auto configuration principles
 [2026-04-09T21:46:04] docs: add MySQL indexing and query optimization
+[2026-04-09T17:13:40] docs: add design patterns singleton factory strategy
