@@ -298,3 +298,4 @@
 [2026-04-09T09:06:28] docs: add concurrent programming locks and AQS
 [2026-04-09T17:03:47] docs: add MySQL indexing and query optimization
 [2026-04-10T14:50:50] docs: add microservices architecture and CAP theorem
+[2026-04-11T08:26:08] docs: add network protocols TCP HTTP WebSocket
