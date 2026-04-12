@@ -300,3 +300,4 @@
 [2026-04-10T14:50:50] docs: add microservices architecture and CAP theorem
 [2026-04-11T08:26:08] docs: add network protocols TCP HTTP WebSocket
 [2026-04-11T12:19:39] docs: add thread pool internals and tuning
+[2026-04-12T20:36:29] docs: add thread pool internals and tuning
