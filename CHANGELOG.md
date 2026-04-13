@@ -301,3 +301,4 @@
 [2026-04-11T08:26:08] docs: add network protocols TCP HTTP WebSocket
 [2026-04-11T12:19:39] docs: add thread pool internals and tuning
 [2026-04-12T20:36:29] docs: add thread pool internals and tuning
+[2026-04-13T19:07:31] docs: add JVM memory model and GC notes
