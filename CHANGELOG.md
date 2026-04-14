@@ -307,3 +307,4 @@
 [2026-04-14T10:34:38] docs: add JVM class loading and bytecode
 [2026-04-14T08:31:22] docs: add Spring IoC and AOP deep dive
 [2026-04-14T14:48:43] docs: add design patterns singleton factory strategy
+[2026-04-14T12:58:35] docs: add network protocols TCP HTTP WebSocket
