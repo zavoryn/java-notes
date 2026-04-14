@@ -304,3 +304,4 @@
 [2026-04-13T19:07:31] docs: add JVM memory model and GC notes
 [2026-04-13T15:32:30] docs: add concurrent programming locks and AQS
 [2026-04-14T13:16:30] docs: add MySQL indexing and query optimization
+[2026-04-14T10:34:38] docs: add JVM class loading and bytecode
