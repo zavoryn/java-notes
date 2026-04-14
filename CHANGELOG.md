@@ -305,3 +305,4 @@
 [2026-04-13T15:32:30] docs: add concurrent programming locks and AQS
 [2026-04-14T13:16:30] docs: add MySQL indexing and query optimization
 [2026-04-14T10:34:38] docs: add JVM class loading and bytecode
+[2026-04-14T08:31:22] docs: add Spring IoC and AOP deep dive
