@@ -311,3 +311,4 @@
 [2026-04-14T19:59:14] docs: add Redis data structures and caching patterns
 [2026-04-14T16:06:09] docs: add Spring IoC and AOP deep dive
 [2026-04-15T11:30:02] docs: add MyBatis source code and plugin mechanism
+[2026-04-15T18:20:00] docs: add JVM memory model and GC notes
