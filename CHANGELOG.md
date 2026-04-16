@@ -316,3 +316,4 @@
 [2026-04-15T14:04:35] docs: add Redis data structures and caching patterns
 [2026-04-16T11:15:01] docs: add microservices architecture and CAP theorem
 [2026-04-16T16:30:30] docs: add Spring IoC and AOP deep dive
+[2026-04-16T15:51:21] docs: add JVM memory model and GC notes
