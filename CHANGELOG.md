@@ -317,3 +317,4 @@
 [2026-04-16T11:15:01] docs: add microservices architecture and CAP theorem
 [2026-04-16T16:30:30] docs: add Spring IoC and AOP deep dive
 [2026-04-16T15:51:21] docs: add JVM memory model and GC notes
+[2026-04-16T21:38:41] docs: add MySQL indexing and query optimization
