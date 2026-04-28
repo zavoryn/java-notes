@@ -322,3 +322,4 @@
 [2026-04-16T20:12:38] docs: add message queue comparison Kafka vs RocketMQ
 [2026-04-28T15:38:57] docs: add microservices architecture and CAP theorem
 [2026-04-28T16:22:16] docs: add distributed transaction Seata and TCC
+[2026-04-28T22:45:53] docs: add JVM class loading and bytecode
