@@ -324,3 +324,4 @@
 [2026-04-28T16:22:16] docs: add distributed transaction Seata and TCC
 [2026-04-28T22:45:53] docs: add JVM class loading and bytecode
 [2026-04-28T21:45:25] docs: add Spring Boot auto configuration principles
+[2026-04-28T13:33:12] docs: add HashMap and ConcurrentHashMap source analysis
