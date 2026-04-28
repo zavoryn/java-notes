@@ -323,3 +323,4 @@
 [2026-04-28T15:38:57] docs: add microservices architecture and CAP theorem
 [2026-04-28T16:22:16] docs: add distributed transaction Seata and TCC
 [2026-04-28T22:45:53] docs: add JVM class loading and bytecode
+[2026-04-28T21:45:25] docs: add Spring Boot auto configuration principles
