@@ -326,3 +326,4 @@
 [2026-04-28T21:45:25] docs: add Spring Boot auto configuration principles
 [2026-04-28T13:33:12] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-04-28T09:32:03] docs: add HashMap and ConcurrentHashMap source analysis
+[2026-04-28T11:19:03] docs: add message queue comparison Kafka vs RocketMQ
