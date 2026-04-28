@@ -320,3 +320,4 @@
 [2026-04-16T21:38:41] docs: add MySQL indexing and query optimization
 [2026-04-16T17:48:44] docs: add thread pool internals and tuning
 [2026-04-16T20:12:38] docs: add message queue comparison Kafka vs RocketMQ
+[2026-04-28T15:38:57] docs: add microservices architecture and CAP theorem
