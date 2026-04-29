@@ -329,3 +329,4 @@
 [2026-04-28T11:19:03] docs: add message queue comparison Kafka vs RocketMQ
 [2026-04-29T16:44:40] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-04-29T11:14:37] docs: add JVM memory model and GC notes
+[2026-04-29T15:43:46] docs: add MyBatis source code and plugin mechanism
