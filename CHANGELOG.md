@@ -332,3 +332,4 @@
 [2026-04-29T15:43:46] docs: add MyBatis source code and plugin mechanism
 [2026-04-29T13:12:08] docs: add thread pool internals and tuning
 [2026-04-29T10:33:32] docs: add JVM memory model and GC notes
+[2026-04-29T17:38:29] docs: add JVM memory model and GC notes
