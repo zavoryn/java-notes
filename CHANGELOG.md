@@ -337,3 +337,4 @@
 [2026-04-29T18:22:37] docs: add microservices architecture and CAP theorem
 [2026-04-30T20:20:31] docs: add MyBatis source code and plugin mechanism
 [2026-04-30T18:53:11] docs: add network protocols TCP HTTP WebSocket
+[2026-04-30T12:37:04] docs: add Spring Boot auto configuration principles
