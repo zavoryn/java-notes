@@ -338,3 +338,4 @@
 [2026-04-30T20:20:31] docs: add MyBatis source code and plugin mechanism
 [2026-04-30T18:53:11] docs: add network protocols TCP HTTP WebSocket
 [2026-04-30T12:37:04] docs: add Spring Boot auto configuration principles
+[2026-04-30T15:15:49] docs: add message queue comparison Kafka vs RocketMQ
