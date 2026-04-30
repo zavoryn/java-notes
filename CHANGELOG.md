@@ -335,3 +335,4 @@
 [2026-04-29T17:38:29] docs: add JVM memory model and GC notes
 [2026-04-29T15:02:12] docs: add distributed transaction Seata and TCC
 [2026-04-29T18:22:37] docs: add microservices architecture and CAP theorem
+[2026-04-30T20:20:31] docs: add MyBatis source code and plugin mechanism
