@@ -340,3 +340,4 @@
 [2026-04-30T12:37:04] docs: add Spring Boot auto configuration principles
 [2026-04-30T15:15:49] docs: add message queue comparison Kafka vs RocketMQ
 [2026-04-30T16:32:05] docs: add Redis data structures and caching patterns
+[2026-05-01T14:43:16] docs: add HashMap and ConcurrentHashMap source analysis
