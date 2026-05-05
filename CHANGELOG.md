@@ -342,3 +342,4 @@
 [2026-04-30T16:32:05] docs: add Redis data structures and caching patterns
 [2026-05-01T14:43:16] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-05-04T17:55:58] docs: add Spring IoC and AOP deep dive
+[2026-05-05T09:42:23] docs: add Spring Boot auto configuration principles
