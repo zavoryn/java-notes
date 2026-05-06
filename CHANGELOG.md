@@ -347,3 +347,4 @@
 [2026-05-06T21:53:15] docs: add Redis data structures and caching patterns
 [2026-05-06T21:30:41] docs: add Redis data structures and caching patterns
 [2026-05-06T08:23:20] docs: add concurrent programming locks and AQS
+[2026-05-06T14:12:12] docs: add MyBatis source code and plugin mechanism
