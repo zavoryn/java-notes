@@ -346,3 +346,4 @@
 [2026-05-06T09:25:06] docs: add JVM memory model and GC notes
 [2026-05-06T21:53:15] docs: add Redis data structures and caching patterns
 [2026-05-06T21:30:41] docs: add Redis data structures and caching patterns
+[2026-05-06T08:23:20] docs: add concurrent programming locks and AQS
