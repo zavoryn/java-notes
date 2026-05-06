@@ -344,3 +344,4 @@
 [2026-05-04T17:55:58] docs: add Spring IoC and AOP deep dive
 [2026-05-05T09:42:23] docs: add Spring Boot auto configuration principles
 [2026-05-06T09:25:06] docs: add JVM memory model and GC notes
+[2026-05-06T21:53:15] docs: add Redis data structures and caching patterns
