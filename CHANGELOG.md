@@ -349,3 +349,4 @@
 [2026-05-06T08:23:20] docs: add concurrent programming locks and AQS
 [2026-05-06T14:12:12] docs: add MyBatis source code and plugin mechanism
 [2026-05-06T15:30:24] docs: add distributed transaction Seata and TCC
+[2026-05-07T17:56:31] docs: add Spring Boot auto configuration principles
