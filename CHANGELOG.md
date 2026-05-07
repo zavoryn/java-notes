@@ -351,3 +351,4 @@
 [2026-05-06T15:30:24] docs: add distributed transaction Seata and TCC
 [2026-05-07T17:56:31] docs: add Spring Boot auto configuration principles
 [2026-05-07T14:16:40] docs: add network protocols TCP HTTP WebSocket
+[2026-05-07T16:09:01] docs: add JVM class loading and bytecode
