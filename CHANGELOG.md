@@ -353,3 +353,4 @@
 [2026-05-07T14:16:40] docs: add network protocols TCP HTTP WebSocket
 [2026-05-07T16:09:01] docs: add JVM class loading and bytecode
 [2026-05-07T18:53:20] docs: add message queue comparison Kafka vs RocketMQ
+[2026-05-07T21:10:08] docs: add distributed transaction Seata and TCC
