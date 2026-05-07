@@ -354,3 +354,4 @@
 [2026-05-07T16:09:01] docs: add JVM class loading and bytecode
 [2026-05-07T18:53:20] docs: add message queue comparison Kafka vs RocketMQ
 [2026-05-07T21:10:08] docs: add distributed transaction Seata and TCC
+[2026-05-07T15:40:41] docs: add MyBatis source code and plugin mechanism
