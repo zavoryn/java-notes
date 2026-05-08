@@ -356,3 +356,4 @@
 [2026-05-07T21:10:08] docs: add distributed transaction Seata and TCC
 [2026-05-07T15:40:41] docs: add MyBatis source code and plugin mechanism
 [2026-05-07T17:53:41] docs: add Redis data structures and caching patterns
+[2026-05-08T11:33:57] docs: add MyBatis source code and plugin mechanism
