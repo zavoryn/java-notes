@@ -362,3 +362,4 @@
 [2026-05-08T18:36:59] docs: add Redis data structures and caching patterns
 [2026-05-08T14:50:48] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-05-08T10:11:03] docs: add MyBatis source code and plugin mechanism
+[2026-05-08T15:57:21] docs: add HashMap and ConcurrentHashMap source analysis
