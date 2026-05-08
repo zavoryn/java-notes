@@ -358,3 +358,4 @@
 [2026-05-07T17:53:41] docs: add Redis data structures and caching patterns
 [2026-05-08T11:33:57] docs: add MyBatis source code and plugin mechanism
 [2026-05-08T10:06:58] docs: add Spring Boot auto configuration principles
+[2026-05-08T13:24:22] docs: add JVM memory model and GC notes
