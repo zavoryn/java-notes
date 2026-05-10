@@ -364,3 +364,4 @@
 [2026-05-08T10:11:03] docs: add MyBatis source code and plugin mechanism
 [2026-05-08T15:57:21] docs: add HashMap and ConcurrentHashMap source analysis
 [2026-05-08T18:33:44] docs: add network protocols TCP HTTP WebSocket
+[2026-05-10T15:16:10] docs: add JVM memory model and GC notes
